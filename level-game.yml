@@ -1,0 +1,401 @@
+---
+- Floor1:
+    :x: -225.0
+    :y: 496.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Floor1:
+    :x: 75.0
+    :y: 496.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Floor1:
+    :x: 372.0
+    :y: 496.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Floor1:
+    :x: 672.0
+    :y: 496.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Puas:
+    :x: 621.0
+    :y: 468.0
+    :angle: 0
+    :zorder: 1600
+    :factor_x: 0.24154589371980675
+    :factor_y: 0.19480519480519481
+    :alpha: 255
+- Floor1:
+    :x: 958.0
+    :y: 496.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Puas:
+    :x: 1053.0
+    :y: 468.0
+    :angle: 0
+    :zorder: 1600
+    :factor_x: 0.24154589371980675
+    :factor_y: 0.19480519480519481
+    :alpha: 255
+- Floor1:
+    :x: 1241.0
+    :y: 496.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Lodo:
+    :x: 1559.0
+    :y: 504.0
+    :angle: 0
+    :zorder: 500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Box:
+    :x: 1611.0
+    :y: 484.0
+    :angle: 0
+    :zorder: 1600
+    :factor_x: 0.4444444444444444
+    :factor_y: 0.4
+    :alpha: 255
+- Floor1:
+    :x: 2007.0
+    :y: 495.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Floor1:
+    :x: 2295.0
+    :y: 495.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Box:
+    :x: 2403.0
+    :y: 484.0
+    :angle: 0
+    :zorder: 1600
+    :factor_x: 0.4444444444444444
+    :factor_y: 0.4
+    :alpha: 255
+- Lodo:
+    :x: 2619.0
+    :y: 504.0
+    :angle: 0
+    :zorder: 500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Floor1:
+    :x: 3016.0
+    :y: 490.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Box:
+    :x: 3036.0
+    :y: 484.0
+    :angle: 0
+    :zorder: 1600
+    :factor_x: 0.4444444444444444
+    :factor_y: 0.4
+    :alpha: 255
+- Floor1:
+    :x: 3303.0
+    :y: 490.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Floor1:
+    :x: 3591.0
+    :y: 490.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.4032258064516129
+    :factor_y: 0.4424778761061947
+    :alpha: 255
+- Lodo:
+    :x: 3947.0
+    :y: 486.0
+    :angle: 0
+    :zorder: 500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Cementerio:
+    :x: 4329.0
+    :y: 486.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.7575757575757576
+    :factor_y: 0.5154639175257731
+    :alpha: 255
+- Piedra:
+    :x: 4325.0
+    :y: 432.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Puas:
+    :x: 3321.0
+    :y: 468.0
+    :angle: 0
+    :zorder: 1600
+    :factor_x: 0.24154589371980675
+    :factor_y: 0.19480519480519481
+    :alpha: 255
+- Cementerio:
+    :x: 4761.0
+    :y: 486.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.7575757575757576
+    :factor_y: 0.5154639175257731
+    :alpha: 255
+- Bomb:
+    :x: 4599.0
+    :y: 0.0
+    :angle: 0
+    :zorder: 1000
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Bomb:
+    :x: 4725.0
+    :y: 0.0
+    :angle: 0
+    :zorder: 1000
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Bomb:
+    :x: 4887.0
+    :y: 0.0
+    :angle: 0
+    :zorder: 1000
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Bomb:
+    :x: 5031.0
+    :y: 0.0
+    :angle: 0
+    :zorder: 1000
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Cementerio:
+    :x: 5157.0
+    :y: 486.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 0.7575757575757576
+    :factor_y: 0.5154639175257731
+    :alpha: 255
+- Piedra:
+    :x: 4923.0
+    :y: 432.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Water1:
+    :x: 5787.0
+    :y: 484.0
+    :angle: 0
+    :zorder: 500
+    :factor_x: 1.0
+    :factor_y: 0.3512396694214876
+    :alpha: 255
+- Water2:
+    :x: 5773.0
+    :y: 479.0
+    :angle: 0
+    :zorder: 800
+    :factor_x: 1.0
+    :factor_y: 0.3512396694214876
+    :alpha: 255
+- Corp:
+    :x: 5562.0
+    :y: 505.0
+    :angle: 0
+    :zorder: 600
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Corp:
+    :x: 5803.0
+    :y: 504.0
+    :angle: 0
+    :zorder: 600
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Corp:
+    :x: 6057.0
+    :y: 504.0
+    :angle: 0
+    :zorder: 600
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Pasto:
+    :x: 6400.0
+    :y: 488.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Pasto:
+    :x: 6813.0
+    :y: 488.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Bombground:
+    :x: 6665.0
+    :y: 453.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Bombground:
+    :x: 7133.0
+    :y: 453.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Pasto:
+    :x: 7227.0
+    :y: 488.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Soldier:
+    :x: 8411.0
+    :y: 396.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 0.4
+    :factor_y: 0.4
+    :alpha: 255
+- Pasto:
+    :x: 7641.0
+    :y: 488.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Pasto:
+    :x: 8055.0
+    :y: 488.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Soldier:
+    :x: 8285.0
+    :y: 396.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 0.4
+    :factor_y: 0.4
+    :alpha: 255
+- Soldier:
+    :x: 8231.0
+    :y: 396.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 0.4
+    :factor_y: 0.4
+    :alpha: 255
+- Soldier:
+    :x: 8375.0
+    :y: 396.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 0.4
+    :factor_y: 0.4
+    :alpha: 255
+- Soldier:
+    :x: 8339.0
+    :y: 396.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 0.4
+    :factor_y: 0.4
+    :alpha: 255
+- Soldier:
+    :x: 8465.0
+    :y: 396.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 0.4
+    :factor_y: 0.4
+    :alpha: 255
+- Soldier:
+    :x: 8267.0
+    :y: 396.0
+    :angle: 0
+    :zorder: 1700
+    :factor_x: 0.4
+    :factor_y: 0.4
+    :alpha: 255
+- Pasto:
+    :x: 8379.0
+    :y: 487.0
+    :angle: 0
+    :zorder: 1500
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Finalya:
+    :x: 8568.0
+    :y: 450.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1
+    :factor_y: 1
+    :alpha: 255
